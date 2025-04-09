@@ -17,7 +17,7 @@ Title
 <pre>
     <code>
         void MaterialMove(){
-            a.MouseClick();
+            a.MouseClick(); #WNTJR
             a.visible(false); #123
         }
     </code>
